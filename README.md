@@ -1,5 +1,5 @@
 # data_science_analytics-lab
-
+#ROLL NUMBER-2206216
 #QUESTION-1
 Use linear regression to fit a straight line to the given database. Set your learning rate to 0.5. What are the cost function value and learning parameters values after convergence? Also, mention the convergence criteria you used.
 
